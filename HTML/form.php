@@ -9,11 +9,11 @@
         
     -->
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "feedback_db";
-$port = 3307;
+$servername = "db-mysql-fra1-42089-do-user-15327179-0.c.db.ondigitalocean.com";
+$username = "doadmin";
+$password = "AVNS__6ABB6CWW3pynlGAy91";
+$dbname = "defaultdb";
+$port = 25060;
 
 
 

@@ -21,11 +21,11 @@
     
 </head>
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "event_ticket_system";
-$port = 3307; // Use the correct port
+$servername = "db-mysql-fra1-42089-do-user-15327179-0.c.db.ondigitalocean.com";
+$username = "doadmin";
+$password = "AVNS__6ABB6CWW3pynlGAy91";
+$dbname = "defaultdb";
+$port = 25060;
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname, $port);

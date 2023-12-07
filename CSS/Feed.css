@@ -1,0 +1,92 @@
+/* Add CSS styles for the form elements */
+h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+fieldset {
+    border: 3px solid #FFD700;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    background-color: #FFD7
+}
+
+legend {
+    margin-bottom: 10px;
+    font-weight: inherit;
+    text-transform: uppercase;
+}
+
+label.first {
+    display: block;
+    font-weight: bold;
+    color: black;
+}
+
+#firstName,
+#lastName,
+#email {
+    width: 25em;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #020202;
+    border-radius: 4px;
+}
+
+#phone {
+    width: 10em;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #020202;
+    border-radius: 4px;
+}
+
+label.second {
+    display: block;
+    font-weight: bold;
+    color: rgb(8, 8, 8);
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+label.third {
+    display: block;
+    font-weight: bold;
+    color: rgb(8, 8, 8);
+    margin-top: 25px;
+}
+
+textarea {
+    width: 50%;
+    margin-bottom: 20px;
+    border: 1px solid #020202;
+    border-radius: 4px;
+}
+
+
+select {
+    width: 20%;
+    padding: 8px;
+    border: 1px solid #040404;
+    border-radius: 4px;
+}
+
+span {
+    color: red;
+    padding: 8px;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+
+.checkbox-group {
+    display: inline-block;
+    margin-right: 10px; 
+}
+
+.option-group {
+    
+    margin-right: 1000px; 
+}

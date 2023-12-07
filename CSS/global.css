@@ -1,0 +1,86 @@
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    display: inline;
+    margin-right: 20px;
+    /* Adjust the spacing between menu items */
+}
+
+h1 {
+    text-align: center;
+    background-color: goldenrod;
+}
+
+/*
+for sell your event, sign in, sign up and support
+*/
+p {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.cover-page {
+    display: flex;
+    flex-direction: column;
+    /* Display the boxes vertically */
+    align-items: center;
+    height: 100vh;
+    /* Cover the entire viewport height */
+
+}
+
+.box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    background-color: goldenrod;
+    text-align: center;
+    width: 100%;
+
+}
+
+.box input {
+    background-color: gainsboro;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px; 
+}
+
+.button {
+    text-align: center;
+    background-color: gold;
+    padding: 10px 20px;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.buttonb {
+    text-align: center;
+    background-color: rgb(207, 221, 160);
+    padding: 5px 10px;
+    color: #fff;
+    cursor: pointer;
+    /* Make it clickble*/
+    border: none;
+    border-radius: 2px;
+    width: 100%;
+}
+
+.button:hover {
+    /* what happend when we move cursor on it  */
+    background-color: goldenrod;
+}
+
+.buttonb:hover {
+    background-color: rgb(196, 255, 47);
+}

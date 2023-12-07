@@ -1,0 +1,59 @@
+.event {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.i1 {
+
+    display: flex;
+    flex-wrap: wrap;
+    /* Wrap to the next line when the container width is exceeded */
+    justify-content: center;
+    /* Center images horizontally */
+}
+
+.i1 img {
+    width: 350px;
+    /* Set a larger width for each image */
+    height: 300px;
+    /* Maintain the aspect ratio while setting width */
+    margin: 10px;
+    /* Adjust the spacing between images as needed */
+}
+
+.i1 img:first-child {
+    margin-left: 0;
+    /* Remove left margin for the first image */
+}
+
+p {
+    font-size: xx-large;
+}
+
+/* Define styles for the table */
+table {
+    width: 80%;
+    /* Adjust the width as needed */
+    border-collapse: collapse;
+    margin: 20px auto;
+    /* Center the table on the page */
+
+}
+
+/* Style the table caption (title) */
+caption {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+/* Style table headers and cells */
+th,
+td {
+    padding: 10px;
+    text-align: center;
+    border: 3px solid gold;
+}

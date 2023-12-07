@@ -1,0 +1,39 @@
+
+
+#gallery #mainImage img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#gallery #thumbnails img {
+    /* width: 100px;
+    height: auto;
+    margin: 5px;
+    cursor: pointer; */
+    opacity: 0.6;
+    width: 60px;
+    height: 40px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+#gallery #thumbnails img:hover {
+    opacity: 1;
+    margin-top: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+
+#mainImg {
+    max-width: 100%;
+    max-height: 400px;
+    border: 2px solid #333;
+}
+

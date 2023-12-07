@@ -1,0 +1,61 @@
+.main-content {
+    display: flex;
+    /* Use a flex container to arrange the blocks */
+}
+
+.block {
+    border: 10px solid black;
+}
+
+.blocka {
+    width: 100%;
+    /* Set the width of each block to 70% for side-by-side positioning */
+    height: 80%;
+    padding: 20px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    /* Center images vertically */
+}
+
+.event-image {
+    width: 150px;
+    /* Set a fixed width */
+    height: 300px;
+    /* Set a fixed height */
+    margin-right: 5px;
+    /* Adjust the spacing between images as needed */
+}
+
+.blockb {
+    width: 30%;
+    /* Set the width of each block to 30% for side-by-side positioning */
+    padding: 20px;
+    border: 10px solid black;
+    margin: 10px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px
+}
+
+.video {
+    text-align: center;
+    /* Center the video horizontally */
+    margin: 40px auto;
+    /* Adjust the margin as needed */
+    width: 100%;
+    /* Ensure the video scales with the container width */
+
+       
+
+}
+p{
+    text-align: left;
+    font-size: medium;
+}
+
+
+
+

@@ -1,0 +1,27 @@
+/* print.css */
+
+/* Existing styles */
+.print-footer {
+    display: none !important;
+}
+
+@page {
+    size: auto;
+    margin: 10mm;
+}
+
+/* Additional styles for table borders */
+.printableTable {
+    border-collapse: collapse; /* Ensures single border between adjacent cells */
+    width: 100%; /* Optional: ensures the table uses the full width */
+}
+
+.printableTable, .printableTable th, .printableTable td {
+    border: 1px solid black; /* Adjust the border width and color as needed */
+    padding: 5px; /* Optional: for padding within cells */
+}
+
+.printableTable caption {
+    font-size: larger; /* Optional: Enhances the caption appearance */
+    margin-bottom: 5px; /* Optional: Adds space below the caption */
+}

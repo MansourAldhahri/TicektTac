@@ -3,18 +3,7 @@
 
 <head>
     <title>Support</title>
-        <!--name:Mansour Ahmed Aldhahri
-        ID:2036538
-        SECTION: CS1
-        
-    -->
-    <!--name:Musab Hassan Alsobhi
-        ID:2035566
-        SECTION: CS1
-        
-    -->
 
-    
     <link rel="stylesheet" type="text/css" href="../CSS/global.css">
 </head>
 

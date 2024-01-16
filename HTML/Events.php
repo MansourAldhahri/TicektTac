@@ -4,16 +4,7 @@
 
 <head>
     <title>Events</title>
-        <!--name:Mansour Ahmed Aldhahri
-        ID:2036538
-        SECTION: CS1
-      
-    -->
-    <!--name:Musab Hassan Alsobhi
-        ID:2035566
-        SECTION: CS1
-        
-    -->
+
     <link rel="stylesheet" type="text/css" href="../CSS/global.css"/>
     <link rel="stylesheet" type="text/css" href="../CSS/style_event.css"/>
     <link rel="stylesheet" type="text/css" href="../CSS/print.css" media="print"/>

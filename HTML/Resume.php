@@ -2,18 +2,7 @@
 <html>
 
 <head>
-    <title>Resume</title> <!--this is title will show in tap you open-->
-    <!--name:Mansour Ahmed Aldhahri
-        ID:2036538
-        SECTION: CS1
-      
-    -->
-    <!--name:Musab Hassan Alsobhi
-        ID:2035566
-        SECTION: CS1
-      
-    -->
-    <!--this will take the external css file-->
+    <title>Resume</title> 
     <link rel="stylesheet" type="text/css" href="../CSS/global.css">
     
     

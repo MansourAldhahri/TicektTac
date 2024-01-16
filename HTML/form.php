@@ -1,13 +1,3 @@
-
-    <!--name:Mansour Ahmed Aldhahri
-        ID:2036538
-        SECTION: CS1
-    -->
-    <!--name:Musab Hassan Alsobhi
-        ID:2035566
-        SECTION: CS1
-        
-    -->
 <?php
 $servername = "db-mysql-fra1-42089-do-user-15327179-0.c.db.ondigitalocean.com";
 $username = "doadmin";
